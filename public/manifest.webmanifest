@@ -1,0 +1,13 @@
+{
+  "name": "Emergency Passport",
+  "short_name": "EmergencyPass",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#e11d48",
+  "background_color": "#fff5f6",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
