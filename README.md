@@ -55,4 +55,11 @@ This project is available for educational and development purposes.
 <img width="803" height="757" alt="Screenshot 2026-10-23 at 9 52 51 PM" src="https://github.com/user-attachments/assets/c532346c-8520-4078-baac-3743382b9c4d" />
 <img width="674" height="750" alt="Screenshot 2026-10-23 at 9 53 25 PM" src="https://github.com/user-attachments/assets/a0a002f3-f618-476b-95e6-cfd2f6a2e246" />
 
+## 🤝 Team & Contributors
 
+This project was collaboratively developed by:
+
+| Contributor | GitHub |
+|---|---|
+| Rashi Jain | [@rawshiii](https://github.com/rawshiii) |
+| Abhideep Gupta | [@abhideepgupta](https://github.com/abhideepgupta) |
